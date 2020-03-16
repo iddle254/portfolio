@@ -9,7 +9,7 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://iddle254.github.io/M.campaign",
+  "homepage": "https://iddle254.github.io/portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
