@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/M.campaign/static/css/main.279aa1f8.chunk.css",
+    "main.js": "/M.campaign/static/js/main.a0965bf2.chunk.js",
+    "main.js.map": "/M.campaign/static/js/main.a0965bf2.chunk.js.map",
+    "runtime-main.js": "/M.campaign/static/js/runtime-main.e93f94d0.js",
+    "runtime-main.js.map": "/M.campaign/static/js/runtime-main.e93f94d0.js.map",
+    "static/js/2.85b0540c.chunk.js": "/M.campaign/static/js/2.85b0540c.chunk.js",
+    "static/js/2.85b0540c.chunk.js.map": "/M.campaign/static/js/2.85b0540c.chunk.js.map",
+    "index.html": "/M.campaign/index.html",
+    "precache-manifest.0dd48ecc9ff536bae4b72e7881e8304c.js": "/M.campaign/precache-manifest.0dd48ecc9ff536bae4b72e7881e8304c.js",
+    "service-worker.js": "/M.campaign/service-worker.js",
+    "static/css/main.279aa1f8.chunk.css.map": "/M.campaign/static/css/main.279aa1f8.chunk.css.map",
+    "static/js/2.85b0540c.chunk.js.LICENSE.txt": "/M.campaign/static/js/2.85b0540c.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/M.campaign/static/media/fa-solid-900.815694de.woff",
+    "static/media/nucleo.css": "/M.campaign/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile-cover.jpg": "/M.campaign/static/media/profile-cover.18b799a0.jpg",
+    "static/media/react.jpg": "/M.campaign/static/media/react.a3cb348a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e93f94d0.js",
+    "static/js/2.85b0540c.chunk.js",
+    "static/css/main.279aa1f8.chunk.css",
+    "static/js/main.a0965bf2.chunk.js"
+  ]
+}
