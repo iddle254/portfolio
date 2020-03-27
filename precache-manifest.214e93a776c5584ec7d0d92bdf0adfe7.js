@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f9950be228880a7e50f68e2381048b7",
+    "revision": "1aa761c9ea6dba70c2fa6722cd399dab",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "895810d2b148efadd158",
+    "revision": "451fd026c9967eda10b5",
     "url": "/portfolio/static/css/main.1f583205.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.bb495e71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "895810d2b148efadd158",
-    "url": "/portfolio/static/js/main.79fd84df.chunk.js"
+    "revision": "451fd026c9967eda10b5",
+    "url": "/portfolio/static/js/main.52c27564.chunk.js"
   },
   {
     "revision": "7107900f59be1fd95810",
     "url": "/portfolio/static/js/runtime-main.af0b07c5.js"
   },
   {
-    "revision": "fcb7a4da7cb05c3443e42b2e76341dd7",
-    "url": "/portfolio/static/media/afyasafe.fcb7a4da.PNG"
+    "revision": "ee34342feaade776046e1e1b89b4ed76",
+    "url": "/portfolio/static/media/afyasafe.ee34342f.PNG"
   },
   {
     "revision": "1761f7126b44ba4089614752dbdfc720",
@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/react.a3cb348a.jpg"
   },
   {
-    "revision": "6ac60465631612cf93aefbfc36ac706e",
-    "url": "/portfolio/static/media/sokomarket.6ac60465.PNG"
+    "revision": "067d80fe4c87db7e49bdc6521f0a5746",
+    "url": "/portfolio/static/media/sokomarket.067d80fe.PNG"
   }
 ]);
