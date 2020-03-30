@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c202b69cb6a8a9709daddfb401adc56",
+    "revision": "ebf88b815cf75b258cdf425cb50a8749",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "884200e95176081ae618",
+    "revision": "9d40ad944aaad64cdf2f",
     "url": "/portfolio/static/css/main.1f583205.chunk.css"
   },
   {
-    "revision": "4ee28bd02d3d90f57d60",
-    "url": "/portfolio/static/js/2.d334d068.chunk.js"
+    "revision": "c75a36756d0b817524c6",
+    "url": "/portfolio/static/js/2.609efade.chunk.js"
   },
   {
     "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/portfolio/static/js/2.d334d068.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.609efade.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "884200e95176081ae618",
-    "url": "/portfolio/static/js/main.070c015f.chunk.js"
+    "revision": "9d40ad944aaad64cdf2f",
+    "url": "/portfolio/static/js/main.aedc2981.chunk.js"
   },
   {
     "revision": "7107900f59be1fd95810",
     "url": "/portfolio/static/js/runtime-main.af0b07c5.js"
+  },
+  {
+    "revision": "93c835aaeb5c4fcffc1707932d8c035b",
+    "url": "/portfolio/static/media/afyaRemake.93c835aa.JPG"
   },
   {
     "revision": "ee34342feaade776046e1e1b89b4ed76",
@@ -126,5 +130,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "626faceeeb40f6e6cbd233d2461d8070",
     "url": "/portfolio/static/media/sokoremake.626facee.PNG"
+  },
+  {
+    "revision": "408a0a1159062402d95ce7f262580110",
+    "url": "/portfolio/static/media/why.408a0a11.gif"
   }
 ]);

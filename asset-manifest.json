@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1f583205.chunk.css",
-    "main.js": "/portfolio/static/js/main.070c015f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.070c015f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.aedc2981.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.aedc2981.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.af0b07c5.js.map",
-    "static/js/2.d334d068.chunk.js": "/portfolio/static/js/2.d334d068.chunk.js",
-    "static/js/2.d334d068.chunk.js.map": "/portfolio/static/js/2.d334d068.chunk.js.map",
+    "static/js/2.609efade.chunk.js": "/portfolio/static/js/2.609efade.chunk.js",
+    "static/js/2.609efade.chunk.js.map": "/portfolio/static/js/2.609efade.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.cfc88876aa2c0e4031812a7bcd45bc47.js": "/portfolio/precache-manifest.cfc88876aa2c0e4031812a7bcd45bc47.js",
+    "precache-manifest.e53dfcb5f16a5f130cccd863aeb0f93e.js": "/portfolio/precache-manifest.e53dfcb5f16a5f130cccd863aeb0f93e.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.1f583205.chunk.css.map": "/portfolio/static/css/main.1f583205.chunk.css.map",
-    "static/js/2.d334d068.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d334d068.chunk.js.LICENSE.txt",
+    "static/js/2.609efade.chunk.js.LICENSE.txt": "/portfolio/static/js/2.609efade.chunk.js.LICENSE.txt",
+    "static/media/afyaRemake.JPG": "/portfolio/static/media/afyaRemake.93c835aa.JPG",
     "static/media/afyasafe.PNG": "/portfolio/static/media/afyasafe.ee34342f.PNG",
     "static/media/comingsoon.jpg": "/portfolio/static/media/comingsoon.1761f712.jpg",
     "static/media/all.min.css": "/portfolio/static/media/fa-solid-900.815694de.woff",
@@ -19,12 +20,13 @@
     "static/media/profile-cover.jpg": "/portfolio/static/media/profile-cover.18b799a0.jpg",
     "static/media/react.jpg": "/portfolio/static/media/react.a3cb348a.jpg",
     "static/media/sokomarket.PNG": "/portfolio/static/media/sokomarket.067d80fe.PNG",
-    "static/media/sokoremake.PNG": "/portfolio/static/media/sokoremake.626facee.PNG"
+    "static/media/sokoremake.PNG": "/portfolio/static/media/sokoremake.626facee.PNG",
+    "static/media/why.gif": "/portfolio/static/media/why.408a0a11.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.af0b07c5.js",
-    "static/js/2.d334d068.chunk.js",
+    "static/js/2.609efade.chunk.js",
     "static/css/main.1f583205.chunk.css",
-    "static/js/main.070c015f.chunk.js"
+    "static/js/main.aedc2981.chunk.js"
   ]
 }
