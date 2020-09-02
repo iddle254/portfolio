@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "347726334324f0a801d27f511f0214cc",
+    "revision": "f7a310d44794db76c6d294a1e5a531d6",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "817947537dafecdeb01f",
+    "revision": "77f89330ee364ae531ea",
     "url": "/portfolio/static/css/main.ad66ac81.chunk.css"
   },
   {
@@ -16,24 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.6c648eef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "817947537dafecdeb01f",
-    "url": "/portfolio/static/js/main.fb7787c5.chunk.js"
+    "revision": "77f89330ee364ae531ea",
+    "url": "/portfolio/static/js/main.5652bf6e.chunk.js"
   },
   {
     "revision": "7107900f59be1fd95810",
     "url": "/portfolio/static/js/runtime-main.af0b07c5.js"
   },
   {
-    "revision": "3a9fd46e97ca5bf62b29dfb6b3b78570",
-    "url": "/portfolio/static/media/amaclone.3a9fd46e.JPG"
+    "revision": "a7c4f25e2534b377089f83224b958d3f",
+    "url": "/portfolio/static/media/amaclone2.a7c4f25e.jpg"
   },
   {
     "revision": "1761f7126b44ba4089614752dbdfc720",
     "url": "/portfolio/static/media/comingsoon.1761f712.jpg"
-  },
-  {
-    "revision": "d525895b33d5370110ca3c9618d9080f",
-    "url": "/portfolio/static/media/covid-tracker.d525895b.JPG"
   },
   {
     "revision": "48461ea4e797c9774dabb4a0440d2f56",
@@ -96,12 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fa-solid-900.815694de.woff"
   },
   {
-    "revision": "cde31e54e8a82860058909f6296b1658",
-    "url": "/portfolio/static/media/instaclone.cde31e54.JPG"
-  },
-  {
-    "revision": "ac3efaed7def251ce53820840956bf75",
-    "url": "/portfolio/static/media/netclone.ac3efaed.JPG"
+    "revision": "a6e46d236cda50658ed308eb2c552536",
+    "url": "/portfolio/static/media/netclone2.a6e46d23.jpg"
   },
   {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
@@ -130,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a3cb348a3c9dd76435f243676478ddbc",
     "url": "/portfolio/static/media/react.a3cb348a.jpg"
-  },
-  {
-    "revision": "a20a947ba0eca932a4efa73be5dacff4",
-    "url": "/portfolio/static/media/spoticlone.a20a947b.JPG"
   },
   {
     "revision": "408a0a1159062402d95ce7f262580110",
