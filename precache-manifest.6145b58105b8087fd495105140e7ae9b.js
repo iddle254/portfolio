@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7a310d44794db76c6d294a1e5a531d6",
+    "revision": "be953b9f16d589b35f9fef68561c4276",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "77f89330ee364ae531ea",
+    "revision": "a80cf1f54e9d5761bd0a",
     "url": "/portfolio/static/css/main.ad66ac81.chunk.css"
   },
   {
-    "revision": "032271596366a4ecfe86",
-    "url": "/portfolio/static/js/2.6c648eef.chunk.js"
+    "revision": "dd16c73b72195c86bbb4",
+    "url": "/portfolio/static/js/2.1e1f9cca.chunk.js"
   },
   {
     "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/portfolio/static/js/2.6c648eef.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.1e1f9cca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77f89330ee364ae531ea",
-    "url": "/portfolio/static/js/main.5652bf6e.chunk.js"
+    "revision": "a80cf1f54e9d5761bd0a",
+    "url": "/portfolio/static/js/main.a773ee61.chunk.js"
   },
   {
     "revision": "7107900f59be1fd95810",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a3cb348a3c9dd76435f243676478ddbc",
     "url": "/portfolio/static/media/react.a3cb348a.jpg"
+  },
+  {
+    "revision": "4eee5ee401a232075bea57c8d916a338",
+    "url": "/portfolio/static/media/tinder-clone2.4eee5ee4.jpg"
   },
   {
     "revision": "408a0a1159062402d95ce7f262580110",

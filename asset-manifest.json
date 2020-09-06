@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ad66ac81.chunk.css",
-    "main.js": "/portfolio/static/js/main.5652bf6e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5652bf6e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a773ee61.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a773ee61.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.af0b07c5.js.map",
-    "static/js/2.6c648eef.chunk.js": "/portfolio/static/js/2.6c648eef.chunk.js",
-    "static/js/2.6c648eef.chunk.js.map": "/portfolio/static/js/2.6c648eef.chunk.js.map",
+    "static/js/2.1e1f9cca.chunk.js": "/portfolio/static/js/2.1e1f9cca.chunk.js",
+    "static/js/2.1e1f9cca.chunk.js.map": "/portfolio/static/js/2.1e1f9cca.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ec143efbfcae1b9f1c0355a9875b0764.js": "/portfolio/precache-manifest.ec143efbfcae1b9f1c0355a9875b0764.js",
+    "precache-manifest.6145b58105b8087fd495105140e7ae9b.js": "/portfolio/precache-manifest.6145b58105b8087fd495105140e7ae9b.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.ad66ac81.chunk.css.map": "/portfolio/static/css/main.ad66ac81.chunk.css.map",
-    "static/js/2.6c648eef.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6c648eef.chunk.js.LICENSE.txt",
+    "static/js/2.1e1f9cca.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1e1f9cca.chunk.js.LICENSE.txt",
     "static/media/amaclone2.jpg": "/portfolio/static/media/amaclone2.a7c4f25e.jpg",
     "static/media/comingsoon.jpg": "/portfolio/static/media/comingsoon.1761f712.jpg",
     "static/media/all.min.css": "/portfolio/static/media/fa-solid-900.815694de.woff",
@@ -19,12 +19,13 @@
     "static/media/nucleo.css": "/portfolio/static/media/nucleo-icons.f82ec6ba.ttf",
     "static/media/profile-cover.jpg": "/portfolio/static/media/profile-cover.18b799a0.jpg",
     "static/media/react.jpg": "/portfolio/static/media/react.a3cb348a.jpg",
+    "static/media/tinder-clone2.jpg": "/portfolio/static/media/tinder-clone2.4eee5ee4.jpg",
     "static/media/why.gif": "/portfolio/static/media/why.408a0a11.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.af0b07c5.js",
-    "static/js/2.6c648eef.chunk.js",
+    "static/js/2.1e1f9cca.chunk.js",
     "static/css/main.ad66ac81.chunk.css",
-    "static/js/main.5652bf6e.chunk.js"
+    "static/js/main.a773ee61.chunk.js"
   ]
 }
